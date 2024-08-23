@@ -1,0 +1,68 @@
+.leftbox {
+  margin-left: 2%;
+  float: left;
+  margin-top: 5%;
+  width: 30%;
+
+  height: 400px;
+}
+.middlebox {
+  padding-top: 5%;
+  float: left;
+  margin-left: 3%;
+  width: 30%;
+  margin-top: 5%;
+  margin-right: 1%;
+  height: 400px;
+}
+.rightbox {
+  padding-top: 10%;
+  float: right;
+  margin-top: 5%;
+  width: 30%;
+  height: 400px;
+  margin-right: 2%;
+}
+.ecom-h {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 70px;
+  /* identical to box height, or 194% */
+  margin-top: 5%;
+  color: #272d4e;
+}
+.ecom-p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* or 167% */
+  text-align: justify;
+  color: #94a2b3;
+}
+.ecom-btn {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height, or 139% */
+  border: 0ch;
+  color: #299ef3;
+}
+.ecom-mh {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 70px;
+  /* or 127% */
+
+  text-align: center;
+
+  color: #272d4e;
+}
+.ecom-align {
+  margin-top: 0%;
+}

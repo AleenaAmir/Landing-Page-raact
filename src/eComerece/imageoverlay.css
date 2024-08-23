@@ -1,0 +1,54 @@
+.box {
+  position: relative;
+  width: 100%;
+  height: 294px;
+  background: #ffffff;
+  box-shadow: 0px 18px 52.8537px rgba(215, 228, 249, 0.5);
+  border-radius: 20px;
+}
+.facebook {
+  position: absolute;
+  width: 135px;
+  height: 79.32px;
+  margin-left: -27%;
+  margin-top: 120px;
+
+  border-radius: 10px;
+}
+.jetpack {
+  position: absolute;
+  margin-left: -15%;
+  width: 145px;
+  height: 85.32px;
+  margin-top: 120px;
+
+  border-radius: 10px;
+}
+.square {
+  position: absolute;
+  width: 135px;
+  height: 79.97px;
+  margin-left: -25%;
+  margin-top: -8px;
+
+  border-radius: 10px;
+}
+.monkey {
+  position: absolute;
+  width: 135px;
+  height: 79.97px;
+  margin-left: -10%;
+  margin-top: 45px;
+
+  border-radius: 10px;
+}
+.google {
+  position: absolute;
+
+  width: 135px;
+  height: 79.97px;
+  margin-left: -20%;
+  margin-top: 16.5%;
+
+  border-radius: 10px;
+}

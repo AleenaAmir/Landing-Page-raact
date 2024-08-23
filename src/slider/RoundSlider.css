@@ -1,0 +1,14 @@
+.slick-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.slider-body {
+  padding-left: 20%;
+  margin-top: 250px;
+}
+.slider.img {
+  height: 100px;
+  width: 40px;
+  background-color: blueviolet;
+}

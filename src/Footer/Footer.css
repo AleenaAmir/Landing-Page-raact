@@ -1,0 +1,149 @@
+.group {
+  width: 100%;
+  height: 260px;
+}
+.cir1 {
+  padding-top: 5%;
+  padding-left: 2%;
+  float: left;
+
+  height: 260px;
+  width: 10%;
+}
+.cir2 {
+  float: right;
+  height: 260px;
+  width: 5%;
+}
+.one {
+  height: 261px;
+  width: auto;
+  left: 0px;
+  top: 4888.00048828125px;
+  border-radius: 0px;
+  background: #5f37ef;
+}
+.footer-heading {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 52px;
+  /* or 146% */
+  float: left;
+  display: inline;
+  color: #ffffff;
+  padding-top: 50px;
+  padding-left: 50px;
+}
+.g-s-btn {
+  background-color: transparent;
+  color: white;
+  margin-top: 70px;
+
+  border-color: white;
+  padding: 16px 56px;
+
+  float: right;
+  box-sizing: border-box;
+  border: 2px solid #ffffff;
+  border-radius: 60px;
+}
+.a-btn {
+  padding-right: 25%;
+}
+.two {
+  width: auto;
+  height: 741px;
+
+  background: #7854f7;
+}
+.lines {
+  display: inline-flex;
+}
+.two-inner {
+  padding: 70px 0 0 70px;
+}
+div span {
+  margin-right: 120px;
+}
+.footer-logo {
+  margin-top: 10%;
+  margin-left: 38%;
+  margin-bottom: 5px;
+}
+.box-f {
+  width: 20%;
+  margin-top: 5%;
+  margin-left: 4%;
+  float: left;
+  height: 300px;
+  color: white;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 52px;
+}
+li {
+  list-style-type: none;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+  letter-spacing: 0.5px;
+
+  font-size: 12px;
+  line-height: 22px;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: -3em;
+  padding-left: 0;
+  /* or 183% */
+
+  color: #ffffff;
+  color: #ffffff;
+
+  display: flex;
+  align-items: center;
+
+  /* Gray */
+
+  color: #777777;
+}
+.f-h4 {
+  text-transform: uppercase;
+  font-size: 130%;
+  font-family: "Times New Roman", Times, serif;
+  letter-spacing: 1px;
+}
+li a {
+  color: #ffffff;
+  font-weight: 100;
+}
+.circle-img {
+  margin-top: 5%;
+  float: right;
+  margin-right: 10%;
+}
+.f-h {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 70px;
+  /* identical to box height, or 127% */
+  margin-top: 20px;
+  text-align: center;
+
+  color: #272d4e;
+}
+.f-p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  /* or 139% */
+
+  text-align: center;
+
+  color: #94a2b3;
+}

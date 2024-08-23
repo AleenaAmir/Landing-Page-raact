@@ -1,0 +1,160 @@
+.nav-nav {
+  margin-left: 2px;
+  float: left;
+  padding: 5px;
+  text-decoration: none;
+  word-spacing: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+
+  color: #272d4e;
+}
+
+.log-in-nav {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21%;
+  padding-right: 35px;
+  color: #272d4e;
+  border-style: none;
+}
+.btn {
+  width: 120px;
+  height: 47px;
+  background: #7854f7;
+  border-radius: 5px;
+}
+.search {
+  padding-left: 20px;
+  font-weight: 500;
+  font-size: 18px;
+  margin-right: -5%;
+}
+.nav-btns {
+  margin-left: -35%;
+}
+.first-h {
+  padding-top: 5%;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 65px;
+  line-height: 95px;
+  /* or 112% */
+
+  color: #272d4e;
+}
+.nav2 {
+  float: right;
+}
+.mainbox {
+  width: 2724px;
+  height: 450px;
+  background-color: #7854f7;
+}
+.main1 {
+  /* width: 50%; */
+  height: 450px;
+  float: left;
+  display: inline;
+  padding-left: 7%;
+}
+.main2-nav {
+  width: 42%;
+  height: 450px;
+
+  float: right;
+}
+
+.first-p {
+  margin-top: 2px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 35px;
+  /* or 139% */
+
+  color: #94a2b3;
+}
+.btn-head1 {
+  width: 230px;
+  height: 62px;
+  background: #7854f7;
+  border-radius: 60px;
+  margin-right: 5px;
+  color: bisque;
+  border: none;
+}
+.btn-head2 {
+  width: 199px;
+  height: 25px;
+  border-style: none;
+  background-color: transparent;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height, or 139% */
+
+  color: rgba(41, 158, 243, 1);
+}
+.background-image {
+  background-image: url("./bgrndhero.png");
+  height: 750px;
+  width: auto;
+  background-size: cover;
+}
+.shoes {
+  position: absolute;
+  width: 550.54px;
+  height: 321.66px;
+
+  top: 220.67px;
+  padding-left: 10%;
+}
+.girllaugh {
+  position: absolute;
+  width: 145.4px;
+  height: 106.07px;
+  margin-left: 5%;
+  top: 180.91px;
+}
+.paymentboard {
+  position: absolute;
+  width: 250.28px;
+  height: 160.22px;
+
+  top: 441.48px;
+  margin-left: 15%;
+  border-radius: 23.4905px;
+}
+.sale {
+  position: absolute;
+  width: 100.14px;
+  height: 54.54px;
+  margin-left: 20%;
+  top: 197.26px;
+
+  border-radius: 37.7902px;
+}
+.cart {
+  position: absolute;
+  width: 75.64px;
+  height: 75.64px;
+  margin-left: 7%;
+  top: 442.65px;
+
+  border-radius: 37.7902px;
+}
+.frame {
+  position: absolute;
+  width: 65.13px;
+  height: 44.46px;
+  margin-left: 35%;
+  top: 523.44px;
+}
